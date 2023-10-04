@@ -1,4 +1,4 @@
-# tmdb_box_office_prediction
+TMDB Box Office Prediction
 
 Dataset is from the following link:
 
